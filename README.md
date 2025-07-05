@@ -43,7 +43,7 @@ An intelligent email classification system using Machine Learning and Natural La
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/email_classifier.git
+   git clone https://github.com/sujit-codezen/ai_email_classifier.git
    cd email_classifier
    ```
 
